@@ -9,8 +9,11 @@
   "author": "Kaio Pomini",
   "license": "MIT",
   "dependencies": {
+    "@handlebars/allow-prototype-access": "^1.0.3",
+    "body-parser": "^1.19.0",
     "express": "^4.17.1",
     "express-handlebars": "^4.0.5",
+    "method-override": "^3.0.0",
     "mongoose": "^5.9.21"
   }
 }
