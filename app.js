@@ -13,6 +13,9 @@ const passport = require('passport');
 
 const app = express();
 
+// Load env. variables
+require('dotenv').config()
+
 // Load Routes
 const ideas = require('./routes/ideas');
 const users = require('./routes/users');
