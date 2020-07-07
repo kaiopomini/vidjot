@@ -8,8 +8,10 @@
 
 > This is an App to create and save ideas for make videos. This application has a compleate CRUD and Login/logout implementation using Node.js (express) and Handlebars to generate pages in back-end side. For database solution it has used a mongodb locale database (NoSQL db). For login authentications, it has used passport with a local strategy authentication and bcrypt to save the users passwords encrypted. 
 
-### technologies
+### Technologies
+
 This project was developed with:
+
 - [Node.js](https://nodejs.org/en/)
 - [Express](https://expressjs.com/pt-br/)
 - [Nodemon](https://www.npmjs.com/package/nodemon)
@@ -21,7 +23,7 @@ This project was developed with:
 - [Heroku](https://www.heroku.com/)
 
 
-### ✨ [Demo](https://frozen-headland-45270.herokuapp.com/)
+### ✨ [Demo at Heroku](https://frozen-headland-45270.herokuapp.com/)
 
 ## Install
 
